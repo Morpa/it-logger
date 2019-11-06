@@ -4,15 +4,15 @@
       "id": 1,
       "message": "Changed network card from server 009",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2019-11-05T21:35:03.167Z"
+      "tech": "Joe Ramone",
+      "date": "2019-11-06T11:11:33.668Z"
     },
     {
       "id": 2,
       "message": "Hard drive failed in workstation 003",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2019-11-05T17:43:59.339Z"
+      "tech": "Sara Wilson",
+      "date": "2019-11-06T10:41:14.516Z"
     },
     {
       "message": "Change memory in workstation 003",
@@ -25,23 +25,13 @@
   "techs": [
     {
       "id": 1,
-      "firstname": "John",
-      "lastname": "Doe"
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
-      "id": 2,
-      "firstname": "Sam",
-      "lastname": "Smith"
-    },
-    {
-      "id": 3,
-      "firstname": "Sara",
-      "lastname": "Wilson"
-    },
-    {
-      "firstname": "Andre",
-      "lastname": "Luiz",
-      "id": 4
+      "firstName": "Joe",
+      "lastName": "Ramone",
+      "id": 2
     }
   ]
 }
